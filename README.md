@@ -48,6 +48,7 @@ _At the end of the exercise you will end up with a `Student.java` and a `Student
 
 #### Bonus
 
+
 - Go ahead and try to add the rest of the `CRUD` tests and functionality, write the methods for `updateGrade()` and `deleteGrade()` in the `Student` class.
 
 ### Part Two: Testing Legacy Code
